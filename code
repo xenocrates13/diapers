@@ -1,0 +1,7 @@
+/this is where the fun happens
+int x == 3 + 4;
+int y == x*x;
+int z == y*y;
+if (z == 20736) {
+  std::cout << "I pooped myself and you ate it\n";
+  }
