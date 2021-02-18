@@ -1,0 +1,41 @@
+#include <iostream>
+
+
+int main() {
+
+
+std::cout << "Enter age: ";
+
+
+std::cin >> age;
+
+
+if (age > 21) {
+  std::cout << "Enter your year of birth: ";
+  std::cin >> birthyear;
+  }
+
+
+else if (age < 21) {
+  std::cout << "Do you like to poop?\n";
+  std::cin >> poop
+  }
+
+
+else if (age = 21) {
+  std::cout << "Congratulations on your youth. Here's to the future and the past!\n";
+  }
+ 
+ 
+std::cout << "What is your salary?\n";
+
+
+std::cin >> salary;
+  
+
+if (salary > 100,000) {
+  std::cout "Give me your money, por favor\n";
+  
+
+
+}
